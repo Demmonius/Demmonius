@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A passionate hardworker DevOps from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Quimeo](https://www.quimeo.fr/)
+- 🔭 I’m currently working on [Chez Nestor](https://www.chez-nestor.com/)
 
-- 🌱 I’m full focus on Github Actions **Github Actions, Typescript and Vercel**
+- 🌱 I’m full focus on DevOps **Ansible, AWS, TerraForm and Jenkins**
 
 - 🤝 I’m working on the best Boilerplate 2021 [Next Right Now](http://github.com/unlyEd/next-right-now/)
 
